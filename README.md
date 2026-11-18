@@ -1,3 +1,4 @@
+### WARNING: DEVELOPED WITH THE HELP OF CHATGPT
 # WoD5e Fluent Rouse Checks (local prototype)
 
 This is an editable Foundry VTT **V14** module for **WoD5e 5.3.25**.
