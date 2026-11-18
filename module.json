@@ -1,0 +1,21 @@
+{
+  "id": "wod5e-fluent-rouse",
+  "title": "WoD5e Fluent Rouse Checks",
+  "description": "Automatically applies Fluent Strength, Fluent Swiftness, and Fluent Endurance to eligible Blood Surge Rouse Checks.",
+  "version": "0.1.0",
+  "authors": [
+    { "name": "Local customization" }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.365"
+  },
+  "esmodules": [
+    "scripts/fluent-rouse.js"
+  ],
+  "relationships": {
+    "systems": [
+      { "id": "wod5e", "type": "system" }
+    ]
+  }
+}
